@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home on Occasional writing</title>
+    <link>http://chreliot.github.io/occasional-writing/</link>
+    <description>Recent content in Home on Occasional writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 15:29:34 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chreliot.github.io/occasional-writing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

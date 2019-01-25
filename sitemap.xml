@@ -3,17 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>http://chreliot.github.io/occasional-writing/</loc>
+    <lastmod>2019-01-25T15:29:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
+    <loc>http://chreliot.github.io/occasional-writing/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://chreliot.github.io/occasional-writing/tags/</loc>
     <priority>0</priority>
   </url>
   
