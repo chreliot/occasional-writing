@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Occasional writing</title>
-    <link>http://chreliot.github.io/occasional-writing/</link>
-    <description>Recent content in Home on Occasional writing</description>
+    <title>Posts on Occasional writing</title>
+    <link>http://chreliot.github.io/occasional-writing/posts/</link>
+    <description>Recent content in Posts on Occasional writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 15:29:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 15:59:10 -0500</lastBuildDate>
     
-	<atom:link href="http://chreliot.github.io/occasional-writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chreliot.github.io/occasional-writing/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
