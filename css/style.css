@@ -10,7 +10,7 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  line-height: 1.1; 
+  line-height: 1.1;
   background: #d3f8d3;
   padding: 5px;
   border-radius: 5px;
@@ -31,7 +31,7 @@ pre {
   padding: 1em;
   overflow-x: auto;
 }
-code { background: #f9f9f9; }
+code { background: #e9fce9; }
 pre code { background: none; }
 
 /* misc elements */
