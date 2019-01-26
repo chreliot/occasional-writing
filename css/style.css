@@ -1,5 +1,5 @@
 body {
-  max-width: 800px;
+  max-width: 750px;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
@@ -10,10 +10,12 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #eee;
+  line-height: 1.1; 
+  background: #d3f8d3;
   padding: 5px;
   border-radius: 5px;
 }
+.terms { font-size: 1em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
